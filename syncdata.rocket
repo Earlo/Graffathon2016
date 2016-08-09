@@ -1,0 +1,322 @@
+<sync rows="1408">
+	<tracks>
+		<track name="r">
+			<key row="0" interpolation="0" value="50"/>
+		</track>
+		<track name="g">
+			<key row="0" interpolation="0" value="50"/>
+		</track>
+		<track name="b">
+			<key row="0" interpolation="0" value="80"/>
+		</track>
+		<track name="t">
+			<key row="0" interpolation="1" value="0"/>
+			<key row="1144" interpolation="1" value="144"/>
+			<key row="1400" interpolation="0" value="175"/>
+		</track>
+		<track name="x">
+			<key row="0" interpolation="0" value="200"/>
+			<key row="36" interpolation="1" value="200"/>
+			<key row="39" interpolation="1" value="200"/>
+			<key row="44" interpolation="1" value="400"/>
+			<key row="47" interpolation="1" value="400"/>
+			<key row="52" interpolation="1" value="600"/>
+			<key row="55" interpolation="1" value="600"/>
+			<key row="60" interpolation="1" value="800"/>
+			<key row="63" interpolation="1" value="800"/>
+			<key row="68" interpolation="1" value="1000"/>
+			<key row="71" interpolation="1" value="1000"/>
+			<key row="76" interpolation="1" value="1200"/>
+			<key row="79" interpolation="1" value="1200"/>
+			<key row="84" interpolation="1" value="1400"/>
+			<key row="87" interpolation="1" value="1400"/>
+			<key row="92" interpolation="1" value="1600"/>
+			<key row="95" interpolation="1" value="1600"/>
+			<key row="100" interpolation="0" value="1800"/>
+			<key row="214" interpolation="3" value="1800"/>
+			<key row="216" interpolation="0" value="1600"/>
+			<key row="239" interpolation="3" value="1600"/>
+			<key row="244" interpolation="0" value="1400"/>
+			<key row="247" interpolation="1" value="1400"/>
+			<key row="251" interpolation="0" value="1200"/>
+			<key row="256" interpolation="1" value="1200"/>
+			<key row="260" interpolation="0" value="1000"/>
+			<key row="267" interpolation="1" value="1000"/>
+			<key row="271" interpolation="0" value="800"/>
+			<key row="462" interpolation="1" value="800"/>
+			<key row="465" interpolation="0" value="600"/>
+			<key row="468" interpolation="1" value="600"/>
+			<key row="471" interpolation="0" value="800"/>
+			<key row="477" interpolation="1" value="800"/>
+			<key row="480" interpolation="0" value="625"/>
+			<key row="592" interpolation="0" value="625"/>
+			<key row="608" interpolation="1" value="625"/>
+			<key row="640" interpolation="1" value="600"/>
+			<key row="645" interpolation="0" value="200"/>
+			<key row="648" interpolation="3" value="200"/>
+			<key row="654" interpolation="0" value="-200"/>
+			<key row="660" interpolation="2" value="-200"/>
+			<key row="666" interpolation="0" value="-800"/>
+			<key row="670" interpolation="1" value="-800"/>
+			<key row="674" interpolation="1" value="-1000"/>
+			<key row="678" interpolation="0" value="-1200"/>
+			<key row="685" interpolation="1" value="-1200"/>
+			<key row="694" interpolation="0" value="-1400"/>
+			<key row="724" interpolation="1" value="-1400"/>
+			<key row="727" interpolation="0" value="-1600"/>
+			<key row="790" interpolation="1" value="-1600"/>
+			<key row="793" interpolation="1" value="-2000"/>
+			<key row="798" interpolation="0" value="-2200"/>
+			<key row="813" interpolation="1" value="-2200"/>
+			<key row="818" interpolation="0" value="-2800"/>
+			<key row="844" interpolation="1" value="-2800"/>
+			<key row="872" interpolation="1" value="-2725"/>
+			<key row="908" interpolation="0" value="-2750"/>
+			<key row="952" interpolation="1" value="-2750"/>
+			<key row="1144" interpolation="0" value="-1000"/>
+		</track>
+		<track name="y">
+			<key row="0" interpolation="0" value="400"/>
+			<key row="420" interpolation="2" value="400"/>
+			<key row="424" interpolation="2" value="350"/>
+			<key row="426" interpolation="0" value="400"/>
+			<key row="433" interpolation="2" value="400"/>
+			<key row="436" interpolation="2" value="350"/>
+			<key row="438" interpolation="0" value="400"/>
+			<key row="704" interpolation="2" value="400"/>
+			<key row="706" interpolation="2" value="375"/>
+			<key row="708" interpolation="2" value="400"/>
+			<key row="710" interpolation="2" value="375"/>
+			<key row="712" interpolation="0" value="400"/>
+			<key row="768" interpolation="2" value="400"/>
+			<key row="772" interpolation="2" value="350"/>
+			<key row="776" interpolation="0" value="400"/>
+			<key row="896" interpolation="3" value="400"/>
+			<key row="1144" interpolation="0" value="-4000"/>
+		</track>
+		<track name="z">
+			<key row="0" interpolation="1" value="3600"/>
+			<key row="4" interpolation="1" value="3400"/>
+			<key row="7" interpolation="1" value="3400"/>
+			<key row="12" interpolation="1" value="3200"/>
+			<key row="15" interpolation="1" value="3200"/>
+			<key row="20" interpolation="0" value="3000"/>
+			<key row="23" interpolation="1" value="3000"/>
+			<key row="28" interpolation="1" value="2800"/>
+			<key row="31" interpolation="1" value="2800"/>
+			<key row="36" interpolation="0" value="2600"/>
+			<key row="100" interpolation="1" value="2600"/>
+			<key row="103" interpolation="1" value="2600"/>
+			<key row="108" interpolation="1" value="2400"/>
+			<key row="111" interpolation="1" value="2400"/>
+			<key row="116" interpolation="1" value="2200"/>
+			<key row="119" interpolation="1" value="2200"/>
+			<key row="124" interpolation="1" value="2000"/>
+			<key row="127" interpolation="1" value="2000"/>
+			<key row="132" interpolation="1" value="1800"/>
+			<key row="135" interpolation="0" value="1800"/>
+			<key row="208" interpolation="3" value="1800"/>
+			<key row="212" interpolation="3" value="1600"/>
+			<key row="214" interpolation="0" value="1400"/>
+			<key row="224" interpolation="2" value="1400"/>
+			<key row="239" interpolation="3" value="400"/>
+			<key row="244" interpolation="0" value="200"/>
+			<key row="275" interpolation="1" value="200"/>
+			<key row="279" interpolation="0" value="0"/>
+			<key row="281" interpolation="1" value="0"/>
+			<key row="285" interpolation="1" value="-200"/>
+			<key row="288" interpolation="0" value="0"/>
+			<key row="300" interpolation="2" value="0"/>
+			<key row="308" interpolation="0" value="-400"/>
+			<key row="320" interpolation="1" value="-400"/>
+			<key row="325" interpolation="0" value="-600"/>
+			<key row="333" interpolation="1" value="-600"/>
+			<key row="337" interpolation="0" value="-800"/>
+			<key row="339" interpolation="1" value="-800"/>
+			<key row="346" interpolation="0" value="-1200"/>
+			<key row="352" interpolation="1" value="-1200"/>
+			<key row="376" interpolation="0" value="-1600"/>
+			<key row="384" interpolation="1" value="-1600"/>
+			<key row="386" interpolation="0" value="-1800"/>
+			<key row="387" interpolation="1" value="-1800"/>
+			<key row="389" interpolation="0" value="-2000"/>
+			<key row="444" interpolation="1" value="-2000"/>
+			<key row="448" interpolation="0" value="-2300"/>
+			<key row="480" interpolation="1" value="-2300"/>
+			<key row="483" interpolation="0" value="-2500"/>
+			<key row="592" interpolation="0" value="-2500"/>
+			<key row="608" interpolation="1" value="-2500"/>
+			<key row="640" interpolation="0" value="-2600"/>
+			<key row="670" interpolation="2" value="-2600"/>
+			<key row="674" interpolation="2" value="-2400"/>
+			<key row="678" interpolation="3" value="-2600"/>
+			<key row="685" interpolation="0" value="-2400"/>
+			<key row="704" interpolation="3" value="-2400"/>
+			<key row="708" interpolation="3" value="-2200"/>
+			<key row="712" interpolation="0" value="-2000"/>
+			<key row="720" interpolation="1" value="-2000"/>
+			<key row="724" interpolation="0" value="-1600"/>
+			<key row="728" interpolation="2" value="-1600"/>
+			<key row="736" interpolation="2" value="-1000"/>
+			<key row="744" interpolation="0" value="-400"/>
+			<key row="746" interpolation="1" value="-400"/>
+			<key row="749" interpolation="0" value="-200"/>
+			<key row="753" interpolation="1" value="-200"/>
+			<key row="756" interpolation="0" value="0"/>
+			<key row="761" interpolation="1" value="0"/>
+			<key row="764" interpolation="0" value="200"/>
+			<key row="768" interpolation="2" value="200"/>
+			<key row="776" interpolation="1" value="1200"/>
+			<key row="781" interpolation="0" value="1400"/>
+			<key row="800" interpolation="1" value="1400"/>
+			<key row="806" interpolation="0" value="800"/>
+			<key row="832" interpolation="2" value="800"/>
+			<key row="835" interpolation="2" value="500"/>
+			<key row="838" interpolation="0" value="200"/>
+			<key row="844" interpolation="1" value="200"/>
+			<key row="872" interpolation="0" value="-1000"/>
+			<key row="952" interpolation="1" value="-1000"/>
+			<key row="1144" interpolation="0" value="-1000"/>
+		</track>
+		<track name="cameraDis">
+			<key row="0" interpolation="0" value="150"/>
+			<key row="136" interpolation="1" value="150"/>
+			<key row="152" interpolation="1" value="300"/>
+			<key row="168" interpolation="1" value="150"/>
+			<key row="184" interpolation="1" value="350"/>
+			<key row="200" interpolation="0" value="150"/>
+			<key row="352" interpolation="3" value="150"/>
+			<key row="376" interpolation="0" value="300"/>
+			<key row="392" interpolation="1" value="300"/>
+			<key row="408" interpolation="1" value="350"/>
+			<key row="416" interpolation="0" value="250"/>
+			<key row="592" interpolation="0" value="250"/>
+			<key row="608" interpolation="1" value="250"/>
+			<key row="640" interpolation="0" value="175"/>
+			<key row="844" interpolation="2" value="175"/>
+			<key row="872" interpolation="0" value="375"/>
+			<key row="896" interpolation="3" value="375"/>
+			<key row="1407" interpolation="0" value="4000"/>
+		</track>
+		<track name="cameraSpin">
+			<key row="0" interpolation="0" value="0"/>
+			<key row="136" interpolation="1" value="0"/>
+			<key row="152" interpolation="1" value="100"/>
+			<key row="168" interpolation="1" value="200"/>
+			<key row="184" interpolation="1" value="300"/>
+			<key row="200" interpolation="0" value="400"/>
+			<key row="201" interpolation="0" value="0"/>
+			<key row="267" interpolation="1" value="0"/>
+			<key row="271" interpolation="0" value="50"/>
+			<key row="275" interpolation="1" value="50"/>
+			<key row="279" interpolation="0" value="0"/>
+			<key row="392" interpolation="1" value="0"/>
+			<key row="416" interpolation="0" value="200"/>
+			<key row="462" interpolation="1" value="200"/>
+			<key row="465" interpolation="0" value="210"/>
+			<key row="468" interpolation="1" value="210"/>
+			<key row="471" interpolation="0" value="200"/>
+			<key row="477" interpolation="1" value="200"/>
+			<key row="480" interpolation="1" value="210"/>
+			<key row="483" interpolation="0" value="205"/>
+			<key row="592" interpolation="1" value="5"/>
+			<key row="640" interpolation="0" value="0"/>
+			<key row="694" interpolation="1" value="0"/>
+			<key row="696" interpolation="0" value="10"/>
+			<key row="724" interpolation="1" value="10"/>
+			<key row="728" interpolation="0" value="-10"/>
+			<key row="776" interpolation="1" value="-10"/>
+			<key row="781" interpolation="0" value="0"/>
+			<key row="844" interpolation="1" value="0"/>
+			<key row="872" interpolation="0" value="25"/>
+			<key row="896" interpolation="3" value="25"/>
+			<key row="1407" interpolation="0" value="800"/>
+		</track>
+		<track name="angle">
+			<key row="0" interpolation="0" value="0"/>
+			<key row="31" interpolation="1" value="0"/>
+			<key row="36" interpolation="0" value="-50"/>
+			<key row="95" interpolation="1" value="-50"/>
+			<key row="100" interpolation="0" value="0"/>
+			<key row="238" interpolation="1" value="0"/>
+			<key row="244" interpolation="0" value="50"/>
+			<key row="267" interpolation="1" value="50"/>
+			<key row="271" interpolation="0" value="0"/>
+			<key row="592" interpolation="1" value="0"/>
+			<key row="640" interpolation="0" value="50"/>
+			<key row="685" interpolation="1" value="50"/>
+			<key row="694" interpolation="0" value="100"/>
+			<key row="776" interpolation="1" value="100"/>
+			<key row="781" interpolation="0" value="50"/>
+			<key row="793" interpolation="1" value="50"/>
+			<key row="798" interpolation="0" value="0"/>
+		</track>
+		<track name="spin">
+			<key row="140" interpolation="2" value="0"/>
+			<key row="144" interpolation="0" value="600"/>
+			<key row="148" interpolation="2" value="600"/>
+			<key row="152" interpolation="0" value="0"/>
+			<key row="160" interpolation="2" value="0"/>
+			<key row="184" interpolation="0" value="2500"/>
+			<key row="185" interpolation="0" value="0"/>
+			<key row="392" interpolation="1" value="0"/>
+			<key row="416" interpolation="0" value="-200"/>
+			<key row="417" interpolation="0" value="0"/>
+			<key row="512" interpolation="3" value="0"/>
+			<key row="576" interpolation="2" value="1600"/>
+			<key row="600" interpolation="0" value="800"/>
+			<key row="694" interpolation="1" value="0"/>
+			<key row="696" interpolation="0" value="-10"/>
+			<key row="724" interpolation="1" value="-10"/>
+			<key row="728" interpolation="0" value="10"/>
+			<key row="776" interpolation="1" value="10"/>
+			<key row="781" interpolation="0" value="0"/>
+			<key row="896" interpolation="3" value="0"/>
+			<key row="1407" interpolation="0" value="-12000"/>
+		</track>
+		<track name="state">
+			<key row="0" interpolation="0" value="0"/>
+			<key row="128" interpolation="0" value="1"/>
+			<key row="184" interpolation="0" value="2"/>
+			<key row="209" interpolation="0" value="3"/>
+			<key row="512" interpolation="0" value="4"/>
+			<key row="576" interpolation="0" value="5"/>
+			<key row="592" interpolation="0" value="6"/>
+			<key row="896" interpolation="0" value="7"/>
+			<key row="1280" interpolation="0" value="8"/>
+		</track>
+		<track name="enemy0">
+			<key row="0" interpolation="0" value="1600"/>
+			<key row="132" interpolation="1" value="1600"/>
+			<key row="135" interpolation="0" value="1800"/>
+			<key row="184" interpolation="3" value="400"/>
+			<key row="192" interpolation="3" value="400"/>
+			<key row="197" interpolation="3" value="400"/>
+			<key row="208" interpolation="0" value="200"/>
+			<key row="512" interpolation="1" value="450"/>
+			<key row="576" interpolation="0" value="550"/>
+			<key row="896" interpolation="1" value="0"/>
+			<key row="1407" interpolation="0" value="1000"/>
+		</track>
+		<track name="enemy1">
+			<key row="0" interpolation="0" value="1500"/>
+			<key row="132" interpolation="1" value="1500"/>
+			<key row="135" interpolation="0" value="1700"/>
+		</track>
+		<track name="enemy2">
+			<key row="0" interpolation="0" value="0"/>
+			<key row="136" interpolation="1" value="0"/>
+			<key row="140" interpolation="0" value="6"/>
+			<key row="144" interpolation="1" value="6"/>
+			<key row="148" interpolation="0" value="0"/>
+			<key row="152" interpolation="1" value="0"/>
+			<key row="157" interpolation="0" value="6"/>
+			<key row="159" interpolation="1" value="6"/>
+			<key row="164" interpolation="0" value="0"/>
+			<key row="184" interpolation="3" value="0"/>
+			<key row="208" interpolation="0" value="50"/>
+			<key row="256" interpolation="0" value="100"/>
+		</track>
+	</tracks>
+	<bookmarks/>
+</sync>
